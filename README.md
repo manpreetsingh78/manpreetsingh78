@@ -53,12 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manpreetsingh78&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"> &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=manpreetsingh78&theme=tokyonight&hide_border=true" alt="streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetsingh78&bg_color=0d1117&color=5b9bd5&line=5b9bd5&point=ffffff&hide_border=true" alt="activity graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetsingh78&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=manpreetsingh78&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manpreetsingh78&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
