@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manpreetsingh78&style=flat-square&color=0e75b6" alt="profile views" />
   <!-- Toggle dark/light badge example -->
   <img src="https://img.shields.io/badge/Time%20Zone-Asia%2FKolkata-FFB000?style=flat-square&logo=mozilla%20firefox" alt="timezone badge">
 </p>
@@ -18,9 +18,9 @@
 ## 🔎 About Me
 - 🛠 **Current focus:** Docker-free FastAPI × React app deployments, real-time voice assistants over LiveKit & Gemini WebSockets, and a price-action Binance-Futures trading bot.  
 - 🛡 **Learning path:** Offensive Security & Pentesting (Red Team).  
-- 🏭 **Side-hustle:** Launching a print-on-demand store for tees, tumblers & mugs (end-to-end automation).  
+- 🏭 **Side-hustle:** Launching a Startup Soon.  
 - 📝 **I write code with:** Python • JavaScript/TypeScript • Bash • Go • PHP.  
-- ☕ **Fun fact:** I refuel with perfectly-brewed masala chai & midnight code sprints.
+- ☕ **Fun fact:** I refuel with perfectly-brewed cold coffee & midnight code sprints.
 
 ---
 
@@ -28,13 +28,17 @@
 
 | Category | Stuff I Reach For |
 | -------- | ---------------- |
-| **Frontend** | `React` • `Next.js` • `Angular 16` • `Ant Design` • `Tailwind CSS` |
+| **Frontend** | `React` • `Next.js` • `Angular` • `Ant Design` • `Tailwind CSS` |
 | **Backend / APIs** | `FastAPI` • `Django & DRF` • `Flask` • `Node.js / Express` • `Laravel 8` |
 | **DevOps & Cloud** | `AWS` (EC2, S3, Route 53, CodePipeline) • `GitHub Actions` • `NGINX / Apache` |
 | **Data & Storage** | `Postgres` • `MariaDB` • `MySQL` • `MongoDB` • `SQLite` • `InfluxDB` |
-| **Realtime / Media** | `LiveKit` • `WebSockets` • `FFmpeg` |
-| **Trading & Automation** | `Binance API` • `Pandas` • `NumPy` • `Selenium` • `Playwright` |
+| **Realtime / Media** | `RTP/SIP` • `WebSockets` • `FFmpeg` |
+| **Automation** | `Robot Framework` • `Puppeteer` • `Pandas/NumPy` • `Selenium` • `Playwright` |
 | **Security** | `Burp Suite` • `Nmap` • `Metasploit` (in training) |
+
+| **Backend** | **Frontend / UI** | **DevOps & Cloud** | **Databases** | **Tools & Misc** |
+|-------------|-------------------|--------------------|---------------|------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![LiveKit](https://img.shields.io/badge/LiveKit-000000?logo=simpleicons&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-f46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) |
 
 ---
 
