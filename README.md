@@ -49,7 +49,7 @@
 *(Star ⭐ any repo you like—feedback & PRs are welcome!)*
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 ---
-
+-->
 ## 📝 Latest Blog & Notes
 <!-- BLOG-POST-LIST:START -->
 - *Coming soon — stay tuned for dev diaries & pentest write-ups.*
