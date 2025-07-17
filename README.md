@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer • AI / Automation Builder • Red-Team Adventurer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Building+products+that+work+%E2%80%94+and+then+making+them+sing;Python+%7C+JavaScript%2FTypeScript+%7C+Go;React%2C+Next.js%2C+Angular%2C+Django%2C+FastAPI;Trading+Bots+%7C+Voice+AI+%7C+Microfrontends+%7C+DevOps" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript%2FTypeScript+%7C+C%2B%2B;.Net+%7C+Node.js+%7C+DSA/ALGO;React%2C+Next.js%2C+Angular%2C+Django%2C+FastAPI;Bots+%7C+Voice+AI+%7C+Microfrontends;AI+Agents+%7C+DevOps;hustle;" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 ---
 
 ## 🔎 About Me
-- 🛠 **Current focus:** Docker-free FastAPI × React app deployments, real-time voice assistants over LiveKit & Gemini WebSockets, and a price-action Binance-Futures trading bot.  
+- 🛠 **Current focus:** FastAPI × React app deployments, real-time voice agents & WebSockets development, and scrapping bot.  
 - 🛡 **Learning path:** Offensive Security & Pentesting (Red Team).  
 - 🏭 **Side-hustle:** Launching a Startup Soon.  
-- 📝 **I write code with:** Python • JavaScript/TypeScript • Bash • Go • PHP.  
+- 📝 **I write code with:** Python • JavaScript/TypeScript • Bash • C++ • Go • PHP.  
 - ☕ **Fun fact:** I refuel with perfectly-brewed cold coffee & midnight code sprints.
 
 ---
@@ -29,8 +29,8 @@
 | Category | Stuff I Reach For |
 | -------- | ---------------- |
 | **Frontend** | `React` • `Next.js` • `Angular` • `Ant Design` • `Tailwind CSS` |
-| **Backend / APIs** | `FastAPI` • `Django & DRF` • `Flask` • `Node.js / Express` • `Laravel 8` |
-| **DevOps & Cloud** | `AWS` (EC2, S3, Route 53, CodePipeline) • `GitHub Actions` • `NGINX / Apache` |
+| **Backend / APIs** | `FastAPI` • `Django & DRF` • `Flask` • `Node.js / Express` • `.Net` • `Laravel 8` |
+| **DevOps & Cloud** | `AWS` (EC2, S3, Route 53, CodePipeline) • `GitHub Actions` • `Kafka` • `NGINX / Apache` |
 | **Data & Storage** | `Postgres` • `MariaDB` • `MySQL` • `MongoDB` • `SQLite` • `InfluxDB` |
 | **Realtime / Media** | `RTP/SIP` • `WebSockets` • `FFmpeg` |
 | **Automation** | `Robot Framework` • `Puppeteer` • `Pandas/NumPy` • `Selenium` • `Playwright` |
@@ -46,37 +46,19 @@
 | Project | What It Does |
 | ------- | ------------ |
 | **🎧 Gemini Voice Assistant** | Streams mic input → Gemini via raw WebSockets, speaks answers in realtime. |
-| **🪙 SOL/USDT Trading Bot** | FastAPI + React dashboard, multi-pattern back-testing, live PnL & Telegram alerts. |
+| **🪙 Scrapping Bot** | FastAPI + React dashboard, Kafka, live stats. |
 | **🎞 Multi-Lang Subtitle Search** | Django app that indexes video subtitles, instant search with timestamp-jump. |
 | **🐙 Micro-Frontend Angular Dashboard** | Self-made component libs, LiveKit agent controls, CI/CD for branch-per-URL. |
 
 *(Star ⭐ any repo you like—feedback & PRs are welcome!)*
 
 ---
-<!-- 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreetsingh78&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=manpreetsingh78&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manpreetsingh78&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Langs" />
-</p>
-
----
--->
-## 📝 Latest Blog & Notes
-<!-- BLOG-POST-LIST:START -->
-- *Coming soon — stay tuned for dev diaries & pentest write-ups.*
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/your-devto" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manpreetsingh78/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:me@manpreet.co.in" target="_blank"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://dev.to/manpreet_singh____" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
 </p>
 
 ---
