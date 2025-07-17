@@ -47,8 +47,8 @@
 | ------- | ------------ |
 | **🎧 Gemini Voice Assistant** | Streams mic input → Gemini via raw WebSockets, speaks answers in realtime. |
 | **🪙 Scrapping Bot** | FastAPI + React dashboard, Kafka, live stats. |
-| **🎞 Multi-Lang Subtitle Search** | Django app that indexes video subtitles, instant search with timestamp-jump. |
-| **🐙 Micro-Frontend Angular Dashboard** | Self-made component libs, LiveKit agent controls, CI/CD for branch-per-URL. |
+| **🎞 Campign Manager** | FastAPI + React to run campigns by ads, whatsapp, sms. |
+| **🐙 Micro-Frontend Angular Dashboard** | Self-made component libs, LiveKit agent controls, CI/CD. |
 
 *(Star ⭐ any repo you like—feedback & PRs are welcome!)*
 
